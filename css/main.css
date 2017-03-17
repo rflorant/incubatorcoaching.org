@@ -788,7 +788,7 @@ ul#nav li a:active {
 }
 
 ul#nav li.current a {
-	color: #a3a4a6;
+	color: white;
 }
 
 ul#nav li.current a:after {
